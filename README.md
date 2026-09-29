@@ -174,8 +174,15 @@ User Type 2: Students
 18. As a student, I want to know when the written (not audio) transcript is unavailable or still being generated so that I understand why I cannot use it yet.
 
 ## Activity Diagrams
+1. Generate and review a table of contents
+<img width="350" height="633" alt="Screenshot 2026-09-29 at 5 34 52 PM" src="https://github.com/user-attachments/assets/b3734639-a84e-4ef4-9dcf-2c286a14b8e1" />
+2. Review the full lecture transcript
+<img width="352" height="619" alt="Screenshot 2026-09-29 at 5 35 17 PM" src="https://github.com/user-attachments/assets/cf4b0757-70fe-4281-a41f-0fab01447d38" />
+3. Navigate topics and resume progress
+<img width="353" height="606" alt="Screenshot 2026-09-29 at 5 35 41 PM" src="https://github.com/user-attachments/assets/d9c52349-1550-43b5-88a9-dedd79e187af" />
+4. Search and navigate the transcript
+<img width="349" height="629" alt="image" src="https://github.com/user-attachments/assets/5786bc2d-f845-47c7-ba9d-0555dc642efd" />
 
-See instructions. Delete this line and place images of your UML Activity diagrams here, each with the text of the user story it illustrates.
 
 ## Wireframes
 
