@@ -13,12 +13,12 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Review of the Current Application
 
-*** ADD TWO MORE PLS!!!
-
 From our findings and testing of the product, we have identified the following features as a current strength, weakness, or gap in the Slide Machine.
 
 Strengths:
 1. Filters out filler words and clarifies speaker's words into short, concise sentences
+2. The Slide Machine is able to generate–in real time–diagrams, images, and visuals that would traditionally take the lecturer time to find on the internet
+3. The Slide Machine allows the lecturer to upload seed material which gives the lecture some guidance and tells the app what kind of material the lecturer would like to see on the screen. The seed material is reflected in the slides that are generated. 
 
 Weaknesses:
 1. As a group, we noticed that the AI-generated slide structure in terms of headers and bullets vs paragraphs was undisciplined and disorganized. Random tangents and side topics received their own dedicated slide which led to very high quanity, low quality (sparse) slides.
