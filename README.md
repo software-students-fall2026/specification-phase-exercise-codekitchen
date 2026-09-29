@@ -83,7 +83,7 @@ Problems/Frustrations:
 - When testing with a seed description and speech, the Slide Machine misspelled JS's name and titled the slides "My Talking" based on her aimless talking ("Oh, do I just talk into it?"), showing a disconnect with user intention
 - Struggled to find the log out button: it was not in the expected upper right corner, clicking the logo did not redirect to the main page, and JS eventually found it in the hamburger menu after some confusion
 
-Senior Student (JS) - details disclosed privately, pseudonym SS will be used
+Senior Student (SS) - details disclosed privately, pseudonym SS will be used
 
 Goals/Needs:
 
