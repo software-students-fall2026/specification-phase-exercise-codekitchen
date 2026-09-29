@@ -63,6 +63,23 @@ Problems/Frustrations:
 - Language professors, by nature, must repeat themselves often so students can understand the material, so auto-translating the slides to English hinders learning in this case
 - Biggest frustration seemed to be difficulty around the different functionality between importing lectures, uploading seed material, and creating projects, as well as the settings
 
+Teaching Assistant (TA) - details disclosed privately, pseudonym TA will be used
+
+Goals/Needs:
+
+- TA prepares lecture slides by summarizing the main points from the professor's Google Colab notebooks, and lately has been pasting the notebooks into ChatGPT to pull out the main points. Spends about 30 minutes to an hour per lectureAs a TA, their main in-class role is answering student questions as they come up, but TA said that as a professor they would want to spend more time adapting material
+- Often explains things verbally that would work better as visuals. For example, when covering a data frame and the group by function, TA would like to show a before-and-after of the data rather than just talking through it
+- Would split content by concept first, with "less on a slide is more." A large concept would get its definition on one slide and an example on the next
+- Saw real value in being able to import both the lecture attachments and the notebook, then speak through the material and have the Slide Machine respond to all of it ("It would save a lot of time")
+
+Problems/Frustrations:
+
+- Biggest frustration with making slides is keeping each one structurally varied so students stay engaged
+- Slides were generated well after TA had stopped talking, so the lag made the tool feel less responsive
+- It wasn't clear which generated slides matched which parts of what TA said
+- When TA said "for example" while speaking, the Slide Machine didn't generate an example, picture, or visual to go with it
+- Overall reaction was positive ("pretty cool"), but the gap between what was said and what was generated limited its usefulness
+
 **Students**
 
 Junior Student (JS) - details disclosed privately, pseudonym JS will be used
