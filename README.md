@@ -109,7 +109,7 @@ User Type 2: Students
 15. As a student, I want to resume the lecture from where I last stopped so that I can continue reviewing without starting over.
 16. As a student, I want to jump between sections using the table of contents so that I can review topics in whatever order is useful to me.
 17. As a student, I want the transcript and lecture sections to correspond to one another so that I can understand which written content relates to each topic.
-18. As a student, I want to know when the transcript is unavailable or still being generated so that I understand why I cannot use it yet.
+18. As a student, I want to know when the written (not audio) transcript is unavailable or still being generated so that I understand why I cannot use it yet.
 
 ## Activity Diagrams
 
