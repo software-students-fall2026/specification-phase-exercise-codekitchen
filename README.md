@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 Risha Chada - https://github.com/rishachada
 Yufei Huang - https://github.com/yufeiihuang
-Sanjana
+Sanjana - https://github.com/schauhans
 Ryan
 Selma
 
@@ -45,7 +45,7 @@ The existing Slide Machine supports speech-to-text transcription and allows inst
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations. Note which type of user each stakeholder represents. You may use pseudonyms or partial names to maintain their privacy, but you must privately share their full names and contact information as part of your submission of this exercise
 
-Instructors
+**Instructors**
 
 Spanish Professor (SP) - details disclosed privately, pseudonym SP will be used
 
@@ -62,6 +62,26 @@ Problems/Frustrations:
 - Then, in a second run, SP tried importing a lecture so it would only generate new slides, which worked slightly better but added on English words to her Spanish slides and didn't pick up student questions
 - Language professors, by nature, must repeat themselves often so students can understand the material, so auto-translating the slides to English hinders learning in this case
 - Biggest frustration seemed to be difficulty around the different functionality between importing lectures, uploading seed material, and creating projects, as well as the settings
+
+**Students**
+
+Junior Student (JS) - details disclosed privately, pseudonym JS will be used
+
+Goals/Needs:
+- JS saw the app as more useful for professors than students ("I'm not a teacher, but it would be useful if I was a professor")
+- As a student, JS values lecture slides that include definitions, photos, and diagrams, which are hard to capture from speech alone ("I don't think you can speak those")
+- Wants a way to add photos directly to slides
+- Wants a way to cut out things said during recording that aren't meant to be part of the lecture
+- Wants a tutorial or overview of what the app can do; JS did not know the Slide Machine could generate images until told after testing
+
+Problems/Frustrations:
+- Was confused by the "Discover" section and what the names and slide decks were, but figured it out shortly after (section not clear enough)
+- On the "Design Templates" page, assumed templates could be created, but only premade options exist (name is misleading)
+- Found the template pages overcluttered with too many fields, describing them as "overstimulating to look at"
+- Tried to make a slide from a selected template but couldn't figure out how and gave up; did not understand the "Export" or "Duplicate this Design" buttons
+- Eventually found the + on the Home Page to create slides
+- When testing with a seed description and speech, the Slide Machine misspelled JS's name and titled the slides "My Talking" based on her aimless talking ("Oh, do I just talk into it?"), showing a disconnect with user intention
+- Struggled to find the log out button: it was not in the expected upper right corner, clicking the logo did not redirect to the main page, and JS eventually found it in the hamburger menu after some confusion
 
 ## Product Vision Statement
 
