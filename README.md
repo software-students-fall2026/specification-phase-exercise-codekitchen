@@ -179,7 +179,8 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Wireframes
 
-See instructions. Delete this line and place your wireframe diagrams here, covering every new screen and every existing screen your proposal changes, for every type of user.
+<img width="775" height="386" alt="Screenshot 2026-09-29 at 5 06 38 pm" src="https://github.com/user-attachments/assets/95272e30-7fbc-4c37-b857-453845e1eac6" />
+<img width="748" height="530" alt="Screenshot 2026-09-29 at 5 02 10 pm" src="https://github.com/user-attachments/assets/431fc9ac-cd9b-4d75-9e2c-a6ea487af809" />
 
 ## Clickable Prototype
 
