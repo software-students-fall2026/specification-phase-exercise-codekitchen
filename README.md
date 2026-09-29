@@ -7,9 +7,9 @@ A little exercise to get started with the specification phase of the software de
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 Risha Chada - https://github.com/rishachada
 Yufei Huang - https://github.com/yufeiihuang
-Sanjana - https://github.com/schauhans
-Ryan
-Selma
+Sanjana Chauhan - https://github.com/schauhans
+Ryan - https://github.com/
+Selma - https://github.com/
 
 ## Review of the Current Application
 
