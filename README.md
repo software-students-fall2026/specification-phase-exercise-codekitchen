@@ -39,7 +39,7 @@ See instructions. Delete this line and replace with a short statement of what yo
 
 https://github.com/bloombar/slide-machine/blob/better-faster/docs/SPEC.md
 
-Checked the project's Future Work, Open Questions, Roadmap, Specs doc, and pull requests. Did not find any mention of showing the written transcript as an added feature to improve student review.
+The existing Slide Machine supports speech-to-text transcription and allows instructors to edit the spoken transcript on an individual-slide basis. However, we did not find a centralized workflow for reviewing the transcript of an entire lecture before publication, nor a student-facing transcript interface for reading, searching, and navigating lecture content. Our proposal extends the existing transcript infrastructure by introducing a centralized instructor review workflow with AI-assisted error detection and a student-facing synchronized transcript that allows students to navigate directly between transcript passages and the corresponding lecture slides.
 
 ## Stakeholders
 
@@ -79,32 +79,37 @@ User Type 1: Instructors
 6. As an instructor, I want to add or remove topics from the generated table of contents so that I can control which topics students see as the major sections of the lecture.
 7. As an instructor, I want to reorder table-of-contents headings so that the organization reflects the structure of my lecture.
 8. As an instructor, I want the table of contents to update its links when I change the order of my slides so that students are always taken to the correct section.
-9. As an instructor, I want to view the transcript of my lecture so that I can review what was captured from my spoken presentation.
-10. As an instructor, I want to search my transcript for a word or phrase so that I can quickly locate where I discussed a topic.
-11. As an instructor, I want to correct errors in the transcript so that the written version accurately represents my lecture.
-12. As an instructor, I want to preview the lecture as a student would see it so that I can verify that the table of contents, slides, and transcript work together as intended.
-13. As an instructor, I want to regenerate the table of contents after substantially changing my lecture so that it reflects the updated content.
-14. As an instructor, I want to know when the table of contents or transcript is still being generated so that I know when my lecture is ready to review.
-15. As an instructor, I want to be notified when generating the table of contents or transcript fails so that I can retry the operation or take another action.
+9. As an instructor, I want to review the transcript of my entire lecture in one place so that I can check what was captured from my spoken presentation without opening each slide individually.
+10. As an instructor, I want to search the full lecture transcript for a word or phrase so that I can quickly locate where I discussed a topic.
+11. As an instructor, I want AI to flag transcript passages that may have been transcribed incorrectly so that I can focus my review on potential errors.
+12. As an instructor, I want AI to flag transcript passages that may not correspond to the content of the associated slide so that I can identify potential transcription or content issues.
+13. As an instructor, I want to approve or dismiss AI-generated transcript warnings so that I remain in control of the final transcript.
+14. As an instructor, I want to preview the lecture as a student would see it so that I can verify that the table of contents, slides, and transcript work together as intended.
+15. As an instructor, I want to regenerate the table of contents after substantially changing my lecture so that it reflects the updated content.
+16. As an instructor, I want to know when the table of contents or transcript is still being generated so that I know when my lecture is ready to review.
+17. As an instructor, I want to be notified when generating the table of contents or transcript fails so that I can retry the operation or take another action.
 
 
-User Type 1: Instructors
+User Type 2: Students
 
 1. As a student, I want to view the lecture's table of contents so that I can understand what topics the lecture covers.
 2. As a student, I want to select a topic from the table of contents so that I can jump directly to that part of the lecture.
 3. As a student, I want the table of contents to reflect the topics actually covered in the lecture so that I can use it as a reliable study guide.
-4. As a student, I want to view the lecture transcript so that I can read the lecture content instead of relying only on the audio.
-5. As a student, I want to search the transcript for a keyword or phrase so that I can quickly find where a topic was discussed.
-6. As a student, I want matching terms highlighted in the transcript so that I can quickly identify relevant passages.
-7. As a student, I want to move between matches for my search term so that I can review each relevant part of the lecture.
-8. As a student, I want to select a passage in the transcript and jump to the corresponding part of the lecture so that I can hear the instructor's explanation.
-9. As a student, I want to see which section of the lecture I am currently reviewing so that I know where I am within the lecture.
-10. As a student, I want to see my progress through the lecture so that I know how much of the material I have reviewed.
-11. As a student, I want my lecture progress to be saved so that I can return to the lecture without losing my place.
-12. As a student, I want to resume the lecture from where I last stopped so that I can continue reviewing without starting over.
-13. As a student, I want to jump between sections using the table of contents so that I can review topics in whatever order is useful to me.
-14. As a student, I want the transcript and lecture sections to correspond to one another so that I can understand which written content relates to each topic.
-15. As a student, I want to know when the transcript is unavailable or still being generated so that I understand why I cannot use it yet.
+4. As a student, I want to show or hide the lecture transcript so that I can choose whether to read along while listening to the lecture.
+5. As a student, I want the transcript to automatically follow the lecture playback so that I can see the words being spoken.
+6. As a student, I want to search the transcript for a keyword or phrase so that I can quickly find where a topic was discussed.
+7. As a student, I want matching terms highlighted in the transcript so that I can quickly identify relevant passages.
+8. As a student, I want to move between matches for my search term so that I can review each relevant part of the lecture.
+9. As a student, I want to select a transcript passage and jump to the corresponding point in the lecture so that I can hear the instructor's explanation of that passage.
+10. As a student, I want the transcript to indicate which slide each passage corresponds to so that I can understand how the spoken explanation relates to the visual material.
+11. As a student, I want the lecture to automatically move to the corresponding slide when I select a transcript passage so that I can navigate between the transcript and slides easily.
+12. As a student, I want to see which section of the lecture I am currently reviewing so that I know where I am within the lecture.
+13. As a student, I want to see my progress through the lecture so that I know how much of the material I have reviewed.
+14. As a student, I want my lecture progress to be saved so that I can return to the lecture without losing my place.
+15. As a student, I want to resume the lecture from where I last stopped so that I can continue reviewing without starting over.
+16. As a student, I want to jump between sections using the table of contents so that I can review topics in whatever order is useful to me.
+17. As a student, I want the transcript and lecture sections to correspond to one another so that I can understand which written content relates to each topic.
+18. As a student, I want to know when the transcript is unavailable or still being generated so that I understand why I cannot use it yet.
 
 ## Activity Diagrams
 
