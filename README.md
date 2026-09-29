@@ -83,6 +83,31 @@ Problems/Frustrations:
 - When testing with a seed description and speech, the Slide Machine misspelled JS's name and titled the slides "My Talking" based on her aimless talking ("Oh, do I just talk into it?"), showing a disconnect with user intention
 - Struggled to find the log out button: it was not in the expected upper right corner, clicking the logo did not redirect to the main page, and JS eventually found it in the hamburger menu after some confusion
 
+Senior Student (JS) - details disclosed privately, pseudonym SS will be used
+
+Goals/Needs:
+
+- SS didn't see much value in the app for students. He felt that if the professor is already presenting, the slides and audio don't add much ("you already know what you're going to say, so I don't really see the point")
+- As a student, SS studies by reading slides start to end and noting key terms, often the bolded ones. He would not replay the audio ("I wouldn't use the playback at all")
+- Wants a written transcript of the "Play Deck Aloud" audio so he can read it instead of re-listening ("I would definitely add a transcript")
+- Wants all the information in one place instead of split between the slides and the audio
+- Values accessibility. He pointed out that deaf or hard-of-hearing students, or anyone in a quiet space without earbuds, would struggle if the audio has information the slides don't ("this would really suck, honestly")
+- Would rather see only his own decks, or decks he's viewed before, on the home screen instead of Discover
+- Liked the translation and re-listen features, but suggested a disclaimer that technical terms may not translate accurately
+- Preferred list view over the default layout
+
+Problems/Frustrations:
+
+- Accidentally clicked a presenter's name instead of the slide, which took him to a profile page instead of the deck
+- Wasn't sure how to move through a deck. He almost pressed "Play Deck Aloud" when he only wanted to click through the slides
+- The left and right arrows were hard to see when the viewer was small
+- Found the "Play Deck Aloud" label misleading because it plays something other than the slide content
+- With no transcript, it was difficult to see all the information in one place
+- Found the Discover section cluttered and unrelated to him ("I think it's really too much")
+- Generally dislikes auto-generated slides. He feels they show less effort and organization than slides prepared in advance
+- Didn't see the point of upvoting and downvoting
+- The share button didn't work
+
 ## Product Vision Statement
 
 We will enhance The Slide Machine with structured lecture navigation and review features that allow instructors to organize and customize generated lecture content while enabling students to navigate, search, and track their progress through lectures using a generated table of contents and searchable transcript.
