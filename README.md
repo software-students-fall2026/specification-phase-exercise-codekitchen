@@ -8,7 +8,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 Risha Chada - https://github.com/rishachada
 Yufei Huang - https://github.com/yufeiihuang
 Sanjana Chauhan - https://github.com/schauhans
-Ryan - https://github.com/
+Ryan Lin - https://github.com/ryanwlin
 Selma - https://github.com/
 
 ## Review of the Current Application
