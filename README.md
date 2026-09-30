@@ -53,6 +53,8 @@ Goals/Needs:
 - SP has very thorough pre-made slides, but spends a lot of time updating material for pacing purposes and adding in visual elements
 - Sometimes students struggle with a grammar/vocab topic more than expected, and generating practice problems (i.e. fill-in-the-blanks, matching, etc.) during class would help SP gauge comfort level before moving on
 - Currently uses powerpoint and spends a lot of time reformatting things in google slides when the conversion is messy so SP can share with other instructors
+- Needs to ensure that examples on the slide are clear and accurate to minimize confusion for foreign language students
+- Also, SP wants to capture more student questions because she currently manually jots notes down in class but it can disrupt the flow
 
 Problems/Frustrations:
 - Did not know how to use the Slide Machine in the slightest
