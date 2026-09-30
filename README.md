@@ -185,8 +185,7 @@ User Type 2: Students
 <img width="748" height="530" alt="Screenshot 2026-09-29 at 5 02 10 pm" src="https://github.com/user-attachments/assets/431fc9ac-cd9b-4d75-9e2c-a6ea487af809" />
 
 ## Clickable Prototype
-
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+**Instructor View:** [View Clickable Prototype](https://www.figma.com/proto/4TVYQ1Vobm8wrzIickVx7B/the-Slide-Machine?node-id=64-370&p=f&t=XnUA5Wc6ru0Ggmaq-0&scaling=scale-down&content-scaling=fixed&page-id=64%3A136&starting-point-node-id=64%3A137)
 
 ## Stakeholder Demo
 
