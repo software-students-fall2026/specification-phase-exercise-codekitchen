@@ -1,10 +1,7 @@
 # Specification Phase Exercise
 
-A little exercise to get started with the specification phase of the software development lifecycle. In this exercise, your team specifies a set of improvements and new features for [The Slide Machine](https://theslidemachine.com) — see the [instructions](instructions.md) for detail, and the [background](background.md) for an introduction to the software product you are tasked with extending.
-
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 - Risha Chada - https://github.com/rishachada
 - Yufei Huang - https://github.com/yufeiihuang
 - Sanjana Chauhan - https://github.com/schauhans
@@ -26,7 +23,6 @@ Weaknesses:
 3. The 2 "plus" buttons are confusing and so is the difference between "new project," "new lecture," and "import a lecture."
 4. Imported lectures (ppt and google slides) are heavily distorted and visually unnappealing
 
-
 Gaps:
 1. A running transcript that is saved with the slides would be useful for students and professors reviewing the lecture. A transcript would also help professors edit the generated slides manually for accuracy and clarity.
 2. It is confusing to figure out how to edit and customize settings for the seed-blended option. A tutorial of some sort would be helpful for new users.
@@ -35,15 +31,9 @@ Gaps:
 
 ## Prior Art & Originality
 
-See instructions. Delete this line and replace with a short statement of what your team checked (the project's Future Work and Open Questions, its roadmap, and its open issues and pull requests) and which parts of your proposal are original — new work not already specified, scheduled, or proposed by someone else.
-
-https://github.com/bloombar/slide-machine/blob/better-faster/docs/SPEC.md
-
 The existing Slide Machine supports speech-to-text transcription and allows instructors to edit the spoken transcript on an individual-slide basis. However, we did not find a centralized workflow for reviewing the transcript of an entire lecture before publication, nor a student-facing transcript interface for reading, searching, and navigating lecture content. Our proposal extends the existing transcript infrastructure by introducing a centralized instructor review workflow with AI-assisted error detection and a student-facing synchronized transcript that allows students to navigate directly between transcript passages and the corresponding lecture slides.
 
 ## Stakeholders
-
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations. Note which type of user each stakeholder represents. You may use pseudonyms or partial names to maintain their privacy, but you must privately share their full names and contact information as part of your submission of this exercise
 
 **Instructors**
 
@@ -131,10 +121,10 @@ Problems/Frustrations:
 
 We will enhance The Slide Machine with structured lecture navigation and review features that allow instructors to organize and customize generated lecture content while enabling students to navigate, search, and track their progress through lectures using a generated table of contents and searchable transcript.
 
-
 ## User Requirements
 
 User Type 1: Instructors
+
 1. As an instructor, I want to generate a table of contents from my completed lecture deck so that the major topics are organized for students
 2. As an instructor, I want the generated table of contents to identify the major topics covered in my lecture so that students can understand the structure of the material.
 3. As an instructor, I want each table-of-contents heading to link to its corresponding section of the lecture so that students can navigate directly to a topic.
