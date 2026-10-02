@@ -187,7 +187,7 @@ User Type 2: Students
 ## Clickable Prototype
 **Instructor View:** [View Clickable Prototype](https://www.figma.com/proto/4TVYQ1Vobm8wrzIickVx7B/the-Slide-Machine?node-id=64-370&p=f&t=XnUA5Wc6ru0Ggmaq-0&scaling=scale-down&content-scaling=fixed&page-id=64%3A136&starting-point-node-id=64%3A137)
 
-**Student View:** [View Clickable Prototype](https://www.figma.com/design/4TVYQ1Vobm8wrzIickVx7B/the-Slide-Machine?node-id=64-529&t=EbMQlV6Y2UMEchFP-1)
+**Student View:** [View Clickable Prototype](https://www.figma.com/proto/4TVYQ1Vobm8wrzIickVx7B/the-Slide-Machine?node-id=64-530&starting-point-node-id=64%3A530)
 
 ## Stakeholder Demo
 
